@@ -1,0 +1,48 @@
+C:\Users\Hi\documents\visual studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym management.vbproj.ResolveComReference.cache
+C:\Users\Hi\documents\visual studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym_management.LOGIN.resources
+C:\Users\Hi\documents\visual studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym_management.Resources.resources
+C:\Users\Hi\documents\visual studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym management.vbproj.GenerateResource.Cache
+C:\Users\Hi\documents\visual studio 2010\Projects\Gym management\Gym management\bin\Debug\Gym management.exe
+C:\Users\Hi\documents\visual studio 2010\Projects\Gym management\Gym management\bin\Debug\Gym management.pdb
+C:\Users\Hi\documents\visual studio 2010\Projects\Gym management\Gym management\bin\Debug\Gym management.xml
+C:\Users\Hi\documents\visual studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym management.exe
+C:\Users\Hi\documents\visual studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym management.xml
+C:\Users\Hi\documents\visual studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym management.pdb
+C:\Documents and Settings\ADMIN\My Documents\Visual Studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym management.vbproj.ResolveComReference.cache
+C:\Documents and Settings\ADMIN\My Documents\Visual Studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym management.exe
+C:\Documents and Settings\ADMIN\My Documents\Visual Studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym management.xml
+C:\Documents and Settings\ADMIN\My Documents\Visual Studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym management.pdb
+C:\Documents and Settings\ADMIN\My Documents\Visual Studio 2010\Projects\Gym management\Gym management\bin\Debug\Gym management.exe.config
+C:\Documents and Settings\ADMIN\My Documents\Visual Studio 2010\Projects\Gym management\Gym management\bin\Debug\login.mdb
+C:\Documents and Settings\ADMIN\My Documents\Visual Studio 2010\Projects\Gym management\Gym management\bin\Debug\register.mdb
+C:\Documents and Settings\ADMIN\My Documents\Visual Studio 2010\Projects\Gym management\Gym management\bin\Debug\Gym management.exe
+C:\Documents and Settings\ADMIN\My Documents\Visual Studio 2010\Projects\Gym management\Gym management\bin\Debug\Gym management.pdb
+C:\Documents and Settings\ADMIN\My Documents\Visual Studio 2010\Projects\Gym management\Gym management\bin\Debug\Gym management.xml
+C:\Documents and Settings\ADMIN\My Documents\Visual Studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ADMIN\My Documents\Visual Studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym_management.LOGIN.resources
+C:\Documents and Settings\ADMIN\My Documents\Visual Studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym_management.Form2.resources
+C:\Documents and Settings\ADMIN\My Documents\Visual Studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym_management.Resources.resources
+C:\Documents and Settings\ADMIN\My Documents\Visual Studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\ADMIN\My Documents\Visual Studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hi\Documents\Visual Studio 2010\Projects\Gym management\Gym management\bin\Debug\Gym management.exe.config
+C:\Users\Hi\Documents\Visual Studio 2010\Projects\Gym management\Gym management\bin\Debug\login.mdb
+C:\Users\Hi\Documents\Visual Studio 2010\Projects\Gym management\Gym management\bin\Debug\register.mdb
+C:\Users\Hi\Documents\Visual Studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym_management.Form2.resources
+C:\Users\Hi\Documents\Visual Studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym_management.Form3.resources
+C:\Users\Hi\Documents\Visual Studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym_management.Form4.resources
+C:\Users\Hi\Documents\Visual Studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym_management.Form5.resources
+C:\Users\Hi\Documents\Visual Studio 2010\Projects\Gym management\Gym management\bin\Debug\equipment.mdb
+C:\Users\Hi\Documents\Visual Studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym_management.Form6.resources
+C:\Users\Hi\Documents\Visual Studio 2010\Projects\Gym management\Gym management\bin\Debug\plan.mdb
+C:\Users\Hi\Documents\Visual Studio 2010\Projects\Gym management\Gym management\bin\Debug\healthinfo.mdb
+C:\Users\Hi\Documents\Visual Studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym_management.Form7.resources
+C:\Users\Hi\Documents\Visual Studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym_management.Form8.resources
+C:\Users\Hi\Documents\Visual Studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym_management.Form9.resources
+C:\Users\Hi\Documents\Visual Studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym_management.Form10.resources
+C:\Users\Hi\Documents\Visual Studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym_management.Form11.resources
+C:\Users\Hi\documents\visual studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym_management.Form12.resources
+C:\Users\Hi\documents\visual studio 2010\Projects\Gym management\Gym management\bin\Debug\creditcard.mdb
+C:\Users\Hi\documents\visual studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym_management.Form13.resources
+C:\Users\Hi\documents\visual studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym_management.Form14.resources
+C:\Users\Hi\documents\visual studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym_management.Form15.resources
+C:\Users\Hi\documents\visual studio 2010\Projects\Gym management\Gym management\obj\x86\Debug\Gym_management.Form16.resources

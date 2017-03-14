@@ -1,0 +1,472 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Gymmanagement
+</name>
+</assembly>
+<members>
+<member name="T:Gym_management.equipmentDataSet.equipmentsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gym_management.equipmentDataSet.equipmentsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gym_management.equipmentDataSet.equipmentsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gym_management.equipmentDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Gym_management.equipmentDataSetTableAdapters.equipmentsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Gym_management.equipmentDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Gym_management.equipmentDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Gym_management.equipmentDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Gym_management.equipmentDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Gym_management.equipmentDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Gym_management.equipmentDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Gym_management.equipmentDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Gym_management.equipmentDataSetTableAdapters.TableAdapterManager.UpdateAll(Gym_management.equipmentDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Gym_management.equipmentDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Gym_management.equipmentDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Gym_management.equipmentDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Gym_management.planDataSet.plansDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gym_management.planDataSet.plansRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gym_management.planDataSet.plansRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gym_management.planDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Gym_management.planDataSetTableAdapters.plansTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Gym_management.planDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Gym_management.planDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Gym_management.planDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Gym_management.planDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Gym_management.planDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Gym_management.planDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Gym_management.planDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Gym_management.planDataSetTableAdapters.TableAdapterManager.UpdateAll(Gym_management.planDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Gym_management.planDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Gym_management.planDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Gym_management.planDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Gym_management.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Gym_management.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Gym_management.My.Resources.Resources._3_minimalist_photography_tips">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gym_management.My.Resources.Resources.Classic_Background_Images_For_Wordpress_Blogs_31">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gym_management.My.Resources.Resources.gym_hd_background_1_1680x1050">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gym_management.My.Resources.Resources.row_of_plain_pencils_against_grey_background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gym_management.My.Resources.Resources.shutterstock_258188879">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gym_management.My.Resources.Resources.web_designer_pune_background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gym_management.My.Resources.Resources.website_design_background_800x600">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gym_management.My.Resources.Resources.zm8bgId">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Gym_management.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Gym_management.creditcardDataSet.creditcardsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gym_management.creditcardDataSet.creditcardsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gym_management.creditcardDataSet.creditcardsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gym_management.creditcardDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Gym_management.creditcardDataSetTableAdapters.creditcardsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Gym_management.creditcardDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Gym_management.creditcardDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Gym_management.creditcardDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Gym_management.creditcardDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Gym_management.creditcardDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Gym_management.creditcardDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Gym_management.creditcardDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Gym_management.creditcardDataSetTableAdapters.TableAdapterManager.UpdateAll(Gym_management.creditcardDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Gym_management.creditcardDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Gym_management.creditcardDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Gym_management.creditcardDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Gym_management.loginDataSet.logintableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gym_management.loginDataSet.logintableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gym_management.loginDataSet.logintableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gym_management.loginDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Gym_management.loginDataSetTableAdapters.logintableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Gym_management.loginDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Gym_management.loginDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Gym_management.loginDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Gym_management.loginDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Gym_management.loginDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Gym_management.loginDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Gym_management.loginDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Gym_management.loginDataSetTableAdapters.TableAdapterManager.UpdateAll(Gym_management.loginDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Gym_management.loginDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Gym_management.loginDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Gym_management.loginDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Gym_management.healthinfoDataSet.healthinfosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gym_management.healthinfoDataSet.healthinfosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gym_management.healthinfoDataSet.healthinfosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gym_management.healthinfoDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Gym_management.healthinfoDataSetTableAdapters.healthinfosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Gym_management.healthinfoDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Gym_management.healthinfoDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Gym_management.healthinfoDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Gym_management.healthinfoDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Gym_management.healthinfoDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Gym_management.healthinfoDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Gym_management.healthinfoDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Gym_management.healthinfoDataSetTableAdapters.TableAdapterManager.UpdateAll(Gym_management.healthinfoDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Gym_management.healthinfoDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Gym_management.healthinfoDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Gym_management.healthinfoDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Gym_management.registerDataSet.registrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gym_management.registerDataSet.registrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gym_management.registerDataSet.registrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gym_management.registerDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Gym_management.registerDataSetTableAdapters.registrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Gym_management.registerDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Gym_management.registerDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Gym_management.registerDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Gym_management.registerDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Gym_management.registerDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Gym_management.registerDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Gym_management.registerDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Gym_management.registerDataSetTableAdapters.TableAdapterManager.UpdateAll(Gym_management.registerDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Gym_management.registerDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Gym_management.registerDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Gym_management.registerDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Gym_management.creditcardDataSet1.creditcardsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gym_management.creditcardDataSet1.creditcardsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gym_management.creditcardDataSet1.creditcardsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gym_management.creditcardDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Gym_management.creditcardDataSet1TableAdapters.creditcardsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Gym_management.creditcardDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Gym_management.creditcardDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Gym_management.creditcardDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Gym_management.creditcardDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Gym_management.creditcardDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Gym_management.creditcardDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Gym_management.creditcardDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Gym_management.creditcardDataSet1TableAdapters.TableAdapterManager.UpdateAll(Gym_management.creditcardDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Gym_management.creditcardDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Gym_management.creditcardDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Gym_management.creditcardDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Gym_management.equipmentDataSet1.equipmentsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Gym_management.equipmentDataSet1.equipmentsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Gym_management.equipmentDataSet1.equipmentsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Gym_management.equipmentDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Gym_management.equipmentDataSet1TableAdapters.equipmentsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Gym_management.equipmentDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Gym_management.equipmentDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Gym_management.equipmentDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Gym_management.equipmentDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Gym_management.equipmentDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Gym_management.equipmentDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Gym_management.equipmentDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Gym_management.equipmentDataSet1TableAdapters.TableAdapterManager.UpdateAll(Gym_management.equipmentDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Gym_management.equipmentDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Gym_management.equipmentDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Gym_management.equipmentDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
